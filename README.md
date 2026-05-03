@@ -1,103 +1,113 @@
-## Olá, meu nome é Victor! 👋
+# Olá, eu sou Victor 👋
 
-### 💻 Estudante de Informática | Futuro Profissional de Cibersegurança
+<div align="center">
 
-Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática** e sigo construindo minha jornada na tecnologia.
+### 💻 Estudante de Informática | 🛡️ Futuro Profissional de Cibersegurança
 
-Tenho grande interesse em **Cibersegurança**, redes, programação e desenvolvimento de projetos com propósito real.  
-Também lidero o desenvolvimento do jogo educativo **Operação Democrática**, criado na Godot Engine.
+Apaixonado por tecnologia, aprendizado constante e criação de projetos reais.
 
----
-
-### 🚀 Atualmente focado em
-
-- 🛡️ Segurança da Informação  
-- 🐍 Python e automação  
-- 🌐 Redes de computadores  
-- 🗄️ Banco de Dados  
-- 🎮 Desenvolvimento de jogos  
-- 📈 Crescimento profissional na área tech  
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino,linux" />
-</p>
-
----
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=vmhated&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhated&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=vmhated&theme=dark&hide_border=false"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+🎓 Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática**.  
+🛡️ Tenho como principal objetivo construir carreira em **Cibersegurança**.  
+🐍 Estudo programação com foco em **Python**, lógica e automação.  
+🌐 Também tenho interesse em redes, sistemas e infraestrutura.  
+🎮 Líder e programador principal do projeto **Operação Democrática**, jogo educativo desenvolvido na **Godot Engine**.
 
 ---
 
-### 🏆 GitHub Profile Trophy
+## 📚 Atualmente estudando
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=vmhated&column=7&theme=darkhub&no-frame=true&no-bg=true"
-  />
-</p>
-
----
-
-### 📂 Projetos em destaque
-
-🔹 **Operação Democrática**  
-Jogo educativo estilo point-and-click com narrativa e escolhas.
-
-🔹 **Projetos em Python**  
-Automações, interfaces gráficas e sistemas úteis.
-
-🔹 **Estudos em Cibersegurança**  
-Laboratórios, redes e segurança ofensiva/defensiva.
+- Segurança da Informação  
+- Python  
+- Redes de Computadores  
+- Banco de Dados  
+- Linux  
+- Desenvolvimento de Projetos
 
 ---
 
-### 🎯 Objetivos
+## 🛠️ Tecnologias e Ferramentas
 
-- Construir carreira sólida em Cybersecurity  
-- Criar portfólio profissional forte  
-- Conquistar oportunidades na área tech  
-- Evoluir continuamente como desenvolvedor  
-- Desenvolver projetos relevantes
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino,linux" />
+
+</div>
+
+---
+
+## 📂 Projetos em destaque
+
+### 🎮 Operação Democrática
+Jogo educativo estilo point-and-click adventure com narrativa, puzzles e escolhas.
+
+### 🐍 Projetos em Python
+Automações, interfaces gráficas e aplicações práticas.
+
+### 🛡️ Estudos em Segurança
+Laboratórios e ambientes controlados para aprendizado ético.
+
+---
+
+## 🎯 Objetivos
+
+✔️ Construir carreira sólida em Cybersecurity  
+✔️ Criar portfólio profissional forte  
+✔️ Conseguir oportunidades na área tech  
+✔️ Evoluir continuamente como desenvolvedor  
+✔️ Desenvolver projetos relevantes
+
+---
+
+## ⚙️ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmhated&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmhated&layout=compact&theme=dark"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=vmhated&theme=dark"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vmhated&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📍 Visitantes do Perfil
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/vmhated/count.svg" />
+
+</div>
+
+---
+
+## 🤝 Contato
+
+📫 Sempre aberto para networking, oportunidades e conexões na área de tecnologia.
 
 ---
 
 <div align="center">
-  <h3><b>📍 Visitantes do Perfil</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/vmhated/count.svg"
-    alt="Contador de visitantes"
-  />
-</p>
+### ⚡ Frase que me representa
+
+> "Disciplina e evolução vencem talento parado."
+
+</div>

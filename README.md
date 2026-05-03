@@ -2,91 +2,80 @@
 
 💻 **Estudante de Informática | Futuro Profissional de Cibersegurança | Desenvolvedor em evolução**
 
-Seja bem-vindo ao meu perfil do GitHub.  
-Aqui você vai encontrar projetos, estudos, desafios e ideias que representam minha jornada na tecnologia.
+Bem-vindo ao meu perfil!
+Sou apaixonado por tecnologia, aprendizado constante e criação de projetos que unem criatividade com propósito.
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática**.  
-🧠 Tenho grande interesse em tecnologia, segurança digital, lógica e desenvolvimento de soluções reais.  
-🛡️ Meu principal objetivo de carreira é crescer na área de **Cibersegurança**, atuando com proteção de sistemas, redes, análise de vulnerabilidades e defesa digital.  
+🎓 Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática**.
+🛡️ Tenho grande interesse em **Cibersegurança**, redes e proteção de sistemas.
+🐍 Estudo **Python**, desenvolvimento de software e lógica de programação.
 🎮 Também lidero o desenvolvimento de um jogo educativo chamado **Operação Democrática**, criado na **Godot Engine**.
 
-Sou movido por curiosidade, disciplina e vontade constante de evoluir.
+---
+
+## 🧠 Atualmente focado em
+
+* Segurança da Informação
+* Python e automação
+* Redes de computadores
+* Banco de Dados
+* Desenvolvimento de projetos reais
+* Evolução profissional na área tech
 
 ---
 
-## 🛠️ Tecnologias que estudo e utilizo
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino" />
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino,linux" />
 </p>
 
 ---
 
-## 📌 Estado atual
+## 🎯 Objetivos
 
-🔹 Evoluindo em **Python** e lógica de programação  
-🔹 Aprendendo mais sobre **redes, sistemas e segurança da informação**  
-🔹 Criando projetos práticos para portfólio  
-🔹 Estudando banco de dados e desenvolvimento técnico  
-🔹 Buscando base sólida para entrar na área de **Cibersegurança**
-
----
-
-## 🛡️ Objetivo de Carreira
-
-Tenho como meta construir carreira em **Cybersecurity / Segurança da Informação**, especialmente em áreas como:
-
-🔐 Pentest Ético  
-🌐 Segurança de Redes  
-🖥️ Hardening de Sistemas  
-🚨 Monitoramento e Resposta a Incidentes  
-🔍 Análise de Vulnerabilidades
-
-Quero unir conhecimento técnico com pensamento estratégico para proteger ambientes digitais.
+🔹 Construir carreira sólida em **Cybersecurity**
+🔹 Criar um portfólio forte e profissional
+🔹 Conseguir oportunidades na área de tecnologia
+🔹 Aprender cada vez mais sobre sistemas e redes
+🔹 Desenvolver projetos próprios relevantes
 
 ---
 
-## 🎯 Metas
+## 📌 Projetos em destaque
 
-✅ Construir um portfólio forte  
-✅ Conseguir oportunidades na área de tecnologia  
-✅ Me especializar em cibersegurança  
-✅ Obter certificações importantes no futuro  
-✅ Criar projetos úteis e relevantes
+### 🎮 Operação Democrática
 
----
+Jogo educativo estilo point-and-click adventure com narrativa, puzzles e escolhas, desenvolvido em equipe para projeto escolar.
 
-## 📂 Projetos em destaque
+### 🐍 Projetos em Python
 
-🚧 **Operação Democrática**  
-Jogo educativo estilo point-and-click com narrativa e escolhas.
+Sistemas, interfaces gráficas, automações e estudos técnicos.
 
-🐍 **Projetos em Python**  
-Automações, interfaces gráficas e sistemas diversos.
+### 🛡️ Laboratórios de Segurança (futuro)
 
-🛡️ **Projetos futuros em Segurança**  
-Laboratórios, testes controlados e estudos de defesa digital.
+Ambientes de teste para estudos éticos em segurança digital.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmhated&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhated&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vmhated&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhated&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+---
+
+## 📚 Frase que me representa
+
+> “Quem evolui todos os dias se torna impossível de ignorar.”
+
 ---
 
 ## 🤝 Contato
 
-📫 Aberto para networking, oportunidades e conexões na área tech.
-
----
-
-## ⚡ Frase que me representa
-
-> "A tecnologia recompensa quem evolui todos os dias."
+📫 Sempre aberto para networking, conexões e oportunidades na área tech.

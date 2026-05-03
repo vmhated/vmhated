@@ -1,81 +1,103 @@
-# Olá, eu sou Victor 👋
+## Olá, meu nome é Victor! 👋
 
-💻 **Estudante de Informática | Futuro Profissional de Cibersegurança | Desenvolvedor em evolução**
+### 💻 Estudante de Informática | Futuro Profissional de Cibersegurança
 
-Bem-vindo ao meu perfil!
-Sou apaixonado por tecnologia, aprendizado constante e criação de projetos que unem criatividade com propósito.
+Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática** e sigo construindo minha jornada na tecnologia.
 
----
-
-## 🚀 Sobre mim
-
-🎓 Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática**.
-🛡️ Tenho grande interesse em **Cibersegurança**, redes e proteção de sistemas.
-🐍 Estudo **Python**, desenvolvimento de software e lógica de programação.
-🎮 Também lidero o desenvolvimento de um jogo educativo chamado **Operação Democrática**, criado na **Godot Engine**.
+Tenho grande interesse em **Cibersegurança**, redes, programação e desenvolvimento de projetos com propósito real.  
+Também lidero o desenvolvimento do jogo educativo **Operação Democrática**, criado na Godot Engine.
 
 ---
 
-## 🧠 Atualmente focado em
+### 🚀 Atualmente focado em
 
-* Segurança da Informação
-* Python e automação
-* Redes de computadores
-* Banco de Dados
-* Desenvolvimento de projetos reais
-* Evolução profissional na área tech
+- 🛡️ Segurança da Informação  
+- 🐍 Python e automação  
+- 🌐 Redes de computadores  
+- 🗄️ Banco de Dados  
+- 🎮 Desenvolvimento de jogos  
+- 📈 Crescimento profissional na área tech  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino,linux" />
 </p>
 
 ---
 
-## 🎯 Objetivos
+### ⚙️ GitHub Analytics
 
-🔹 Construir carreira sólida em **Cybersecurity**
-🔹 Criar um portfólio forte e profissional
-🔹 Conseguir oportunidades na área de tecnologia
-🔹 Aprender cada vez mais sobre sistemas e redes
-🔹 Desenvolver projetos próprios relevantes
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=vmhated&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhated&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vmhated&theme=dark&hide_border=false"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🎮 Operação Democrática
-
-Jogo educativo estilo point-and-click adventure com narrativa, puzzles e escolhas, desenvolvido em equipe para projeto escolar.
-
-### 🐍 Projetos em Python
-
-Sistemas, interfaces gráficas, automações e estudos técnicos.
-
-### 🛡️ Laboratórios de Segurança (futuro)
-
-Ambientes de teste para estudos éticos em segurança digital.
-
----
-
-## 📊 Estatísticas GitHub
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vmhated&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhated&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=vmhated&column=7&theme=darkhub&no-frame=true&no-bg=true"
+  />
 </p>
 
 ---
 
-## 📚 Frase que me representa
+### 📂 Projetos em destaque
 
-> “Quem evolui todos os dias se torna impossível de ignorar.”
+🔹 **Operação Democrática**  
+Jogo educativo estilo point-and-click com narrativa e escolhas.
+
+🔹 **Projetos em Python**  
+Automações, interfaces gráficas e sistemas úteis.
+
+🔹 **Estudos em Cibersegurança**  
+Laboratórios, redes e segurança ofensiva/defensiva.
 
 ---
 
-## 🤝 Contato
+### 🎯 Objetivos
 
-📫 Sempre aberto para networking, conexões e oportunidades na área tech.
+- Construir carreira sólida em Cybersecurity  
+- Criar portfólio profissional forte  
+- Conquistar oportunidades na área tech  
+- Evoluir continuamente como desenvolvedor  
+- Desenvolver projetos relevantes
+
+---
+
+<div align="center">
+  <h3><b>📍 Visitantes do Perfil</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/vmhated/count.svg"
+    alt="Contador de visitantes"
+  />
+</p>

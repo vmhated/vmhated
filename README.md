@@ -1,37 +1,52 @@
 # Olá, eu sou Victor 👋
 
-💻 **Estudante de Informática | Desenvolvedor em evolução | Criador de ideias**
+💻 **Estudante de Informática | Futuro Profissional de Cibersegurança | Desenvolvedor em evolução**
 
 Seja bem-vindo ao meu perfil do GitHub.  
-Aqui você vai encontrar projetos, experimentos, estudos e aplicações que representam minha jornada na tecnologia.
+Aqui você vai encontrar projetos, estudos, desafios e ideias que representam minha jornada na tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 
 🎓 Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Informática**.  
-🧠 Tenho foco em desenvolvimento de software, lógica de programação e criação de projetos com propósito real.  
-🎮 Também lidero o desenvolvimento de um jogo educativo chamado **Operação Democrática**, criado na engine Godot.
+🧠 Tenho grande interesse em tecnologia, segurança digital, lógica e desenvolvimento de soluções reais.  
+🛡️ Meu principal objetivo de carreira é crescer na área de **Cibersegurança**, atuando com proteção de sistemas, redes, análise de vulnerabilidades e defesa digital.  
+🎮 Também lidero o desenvolvimento de um jogo educativo chamado **Operação Democrática**, criado na **Godot Engine**.
 
-Sou movido por curiosidade, criatividade e vontade de evoluir constantemente.
+Sou movido por curiosidade, disciplina e vontade constante de evoluir.
 
 ---
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,vscode,godot" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,godot,arduino" />
 </p>
 
 ---
 
 ## 📌 Estado atual
 
-🔹 Aperfeiçoando minhas habilidades em **Python** e desenvolvimento desktop  
-🔹 Aprendendo mais sobre **banco de dados e back-end**  
+🔹 Evoluindo em **Python** e lógica de programação  
+🔹 Aprendendo mais sobre **redes, sistemas e segurança da informação**  
 🔹 Criando projetos práticos para portfólio  
-🔹 Evoluindo no desenvolvimento de jogos com **Godot Engine**  
-🔹 Buscando crescimento pessoal e profissional todos os dias
+🔹 Estudando banco de dados e desenvolvimento técnico  
+🔹 Buscando base sólida para entrar na área de **Cibersegurança**
+
+---
+
+## 🛡️ Objetivo de Carreira
+
+Tenho como meta construir carreira em **Cybersecurity / Segurança da Informação**, especialmente em áreas como:
+
+🔐 Pentest Ético  
+🌐 Segurança de Redes  
+🖥️ Hardening de Sistemas  
+🚨 Monitoramento e Resposta a Incidentes  
+🔍 Análise de Vulnerabilidades
+
+Quero unir conhecimento técnico com pensamento estratégico para proteger ambientes digitais.
 
 ---
 
@@ -39,9 +54,9 @@ Sou movido por curiosidade, criatividade e vontade de evoluir constantemente.
 
 ✅ Construir um portfólio forte  
 ✅ Conseguir oportunidades na área de tecnologia  
-✅ Criar softwares úteis e inteligentes  
-✅ Lançar projetos independentes  
-✅ Me tornar referência através do meu trabalho
+✅ Me especializar em cibersegurança  
+✅ Obter certificações importantes no futuro  
+✅ Criar projetos úteis e relevantes
 
 ---
 
@@ -50,31 +65,30 @@ Sou movido por curiosidade, criatividade e vontade de evoluir constantemente.
 🚧 **Operação Democrática**  
 Jogo educativo estilo point-and-click com narrativa e escolhas.
 
-🧠 **Projetos em Python**  
-Automações, interfaces gráficas e sistemas inteligentes.
+🐍 **Projetos em Python**  
+Automações, interfaces gráficas e sistemas diversos.
 
-🌐 **Web Projects**  
-Sites modernos e experiências criativas.
+🛡️ **Projetos futuros em Segurança**  
+Laboratórios, testes controlados e estudos de defesa digital.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=@vmhated&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@vmhated&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🤝 Contato
 
-📫 Entre em contato para networking, ideias ou oportunidades.
+📫 Aberto para networking, oportunidades e conexões na área tech.
 
 ---
 
 ## ⚡ Frase que me representa
 
-> "Grandes projetos começam quando alguém decide levar uma ideia a sério."
-
----
+> "A tecnologia recompensa quem evolui todos os dias."
